@@ -5,4 +5,4 @@
 
 Для запуска теста надо установить phpunit : composer install
 
-Запуск теста: "vendor\bin\phpunit" test.php
+Запуск теста: "vendor\bin\phpunit" test.php (В винде). 
